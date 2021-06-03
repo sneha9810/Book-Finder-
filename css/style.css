@@ -1,0 +1,30 @@
+body {
+  background-image: url('../img/book3.webp');
+  background-color: #FFFDD0;
+  
+  height: 100%;
+  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.center {
+  margin: auto;
+  margin-top: 200px;
+}
+
+#header {
+  font-family: 'Righteous', sans-serif;
+  font-size: 3rem;
+  flood-color: saddlebrown;
+}
+
+h2 {
+  font-family: 'Righteous', sans-serif;
+}
+
+.book-list {
+  margin-top: 50px;
+  visibility: hidden;
+}
